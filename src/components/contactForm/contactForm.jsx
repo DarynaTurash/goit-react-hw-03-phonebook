@@ -1,7 +1,7 @@
 import { Formik } from 'formik';
 import { nanoid } from 'nanoid';
 import * as Yup from 'yup';
-import { Form, ErrorMessage, FormField, FieldInput, SubmitButton } from './contact-form.styled';
+import { Form, ErrorMessage, FormField, FieldInput, SubmitButton } from './contactForm.styled';
 import PropTypes from 'prop-types';
 
 

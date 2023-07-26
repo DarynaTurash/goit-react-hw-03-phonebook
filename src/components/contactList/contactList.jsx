@@ -1,4 +1,4 @@
-import { ListContainer, StyledList, Contact, Name, ButtonDelete, Number } from "./contact-list.styled";
+import { ListContainer, StyledList, Contact, Name, ButtonDelete, Number } from "./contactList.styled";
 import PropTypes from 'prop-types';
 
 export const ContactList = ({ contacts, onDelete }) => {

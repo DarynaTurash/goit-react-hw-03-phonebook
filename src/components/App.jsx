@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import React from 'react';
-import { ContactList } from './contact-list/contact-list';
-import { ContactForm } from './contact-form/contact-form';
+import { ContactList } from './contactList/contactList';
+import { ContactForm } from './contactForm/contactForm';
 import { Layout } from './layout/layout';
 import { Filter } from './filter/filter';
 
